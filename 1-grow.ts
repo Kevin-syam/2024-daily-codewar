@@ -1,4 +1,8 @@
-// Soal Reduce but Grow
+/*
+    WPU 2024 code challange
+    day 1/366
+    https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript
+*/
 // Cara simple forloop
 
 function grow(x) {
